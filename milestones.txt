@@ -1,0 +1,4 @@
+0. Build UI
+1. Convert speech to text
+2. Use AI to correct grammar text
+3. Use AI respond your text
